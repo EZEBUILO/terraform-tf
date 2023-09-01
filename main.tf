@@ -24,8 +24,8 @@ variable "aws_region" {
 provider "aws" {
 #  region = var.aws_region
   region = "us-east-1"
-  access_key = "AKIAIVKYEQBHYT24WJBQ"
-  secret_key = "HJd1SbIqmy2WHOErRUNHONYPo89rEHeyZjIDKzCH"
+  access_key = "your access key"
+  secret_key = "your secret"
  
 }
 
